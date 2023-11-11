@@ -20,8 +20,9 @@ sudo apt-get install screen -y
 
 
 # Git Clone 
-git clone https://github.com/asp2020100/sms-flask.git
-cd sms-flask
+git clone https://github.com/asp2020100/Simple-Student-Management-System.git
+mv Simple-Student-Management-System ssms
+cd ssms
 
 # Create a python virtual environment
 python3 -m venv env
